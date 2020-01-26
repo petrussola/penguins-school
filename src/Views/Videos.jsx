@@ -20,8 +20,8 @@ const Videos = () => {
         ></iframe>
       </div>
       <h3>
-        What have your learned in this video? Explain it to your friend and
-        family
+        What have your learned in this video? Explain it to your friends and
+        family!
       </h3>
     </div>
   );
